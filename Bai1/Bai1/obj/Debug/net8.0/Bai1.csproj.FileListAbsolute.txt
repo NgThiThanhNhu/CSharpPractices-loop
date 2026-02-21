@@ -1,0 +1,14 @@
+C:\Users\nguye\Documents\C#Practices-loop\Bai1\Bai1\bin\Debug\net8.0\Bai1.exe
+C:\Users\nguye\Documents\C#Practices-loop\Bai1\Bai1\bin\Debug\net8.0\Bai1.deps.json
+C:\Users\nguye\Documents\C#Practices-loop\Bai1\Bai1\bin\Debug\net8.0\Bai1.runtimeconfig.json
+C:\Users\nguye\Documents\C#Practices-loop\Bai1\Bai1\bin\Debug\net8.0\Bai1.dll
+C:\Users\nguye\Documents\C#Practices-loop\Bai1\Bai1\bin\Debug\net8.0\Bai1.pdb
+C:\Users\nguye\Documents\C#Practices-loop\Bai1\Bai1\obj\Debug\net8.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Documents\C#Practices-loop\Bai1\Bai1\obj\Debug\net8.0\Bai1.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\C#Practices-loop\Bai1\Bai1\obj\Debug\net8.0\Bai1.AssemblyInfo.cs
+C:\Users\nguye\Documents\C#Practices-loop\Bai1\Bai1\obj\Debug\net8.0\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\C#Practices-loop\Bai1\Bai1\obj\Debug\net8.0\Bai1.dll
+C:\Users\nguye\Documents\C#Practices-loop\Bai1\Bai1\obj\Debug\net8.0\refint\Bai1.dll
+C:\Users\nguye\Documents\C#Practices-loop\Bai1\Bai1\obj\Debug\net8.0\Bai1.pdb
+C:\Users\nguye\Documents\C#Practices-loop\Bai1\Bai1\obj\Debug\net8.0\Bai1.genruntimeconfig.cache
+C:\Users\nguye\Documents\C#Practices-loop\Bai1\Bai1\obj\Debug\net8.0\ref\Bai1.dll
